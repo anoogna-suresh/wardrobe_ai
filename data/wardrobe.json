@@ -1,0 +1,17 @@
+[
+    {
+      "name": "blue jeans",
+      "type": "bottom",
+      "color": "blue",
+      "season": "all",
+      "style": "casual"
+    },
+    {
+      "name": "grey hoodie",
+      "type": "top",
+      "color": "grey",
+      "season": "winter",
+      "style": "casual"
+    }
+  ]
+  

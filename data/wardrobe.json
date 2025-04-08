@@ -4,14 +4,72 @@
       "type": "bottom",
       "color": "blue",
       "season": "all",
-      "style": "casual"
+      "style": "casual",
+      "temp_label": "cool"
     },
     {
       "name": "grey hoodie",
       "type": "top",
       "color": "grey",
       "season": "winter",
-      "style": "casual"
+      "style": "casual",
+      "temp_label": "cold"
+    },
+    {
+      "name": "black raincoat",
+      "type": "outerwear",
+      "color": "black",
+      "season": "rainy",
+      "style": "casual",
+      "temp_label": "cool"
+    },
+    {
+      "name": "white sneakers",
+      "type": "shoes",
+      "color": "white",
+      "season": "all",
+      "style": "casual",
+      "temp_label": "cool"
+    },
+    {
+      "name": "white t-shirt",
+      "type": "top",
+      "color": "white",
+      "season": "summer",
+      "style": "casual",
+      "temp_label": "warm"
+    },
+    {
+      "name": "black blazer",
+      "type": "outerwear",
+      "color": "black",
+      "season": "all",
+      "style": "formal",
+      "temp_label": "cool"
+    },
+    {
+      "name": "formal trousers",
+      "type": "bottom",
+      "color": "grey",
+      "season": "all",
+      "style": "formal",
+      "temp_label": "cool"
+    },
+    {
+      "name": "running shoes",
+      "type": "shoes",
+      "color": "black",
+      "season": "all",
+      "style": "sporty",
+      "temp_label": "warm"
+    },
+    {
+      "name": "tank top",
+      "type": "top",
+      "color": "blue",
+      "season": "summer",
+      "style": "sporty",
+      "temp_label": "hot"
     }
   ]
   
